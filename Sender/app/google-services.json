@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "285258868573",
+    "project_id": "fcmnotifications-b3a27",
+    "storage_bucket": "fcmnotifications-b3a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285258868573:android:5c5b82e7ef6d8899d56ab4",
+        "android_client_info": {
+          "package_name": "com.androiddevs.firebasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285258868573-i2c3r5qf3pjobu20sae2kli2dknkmofn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpPcUp_E77egJMC6A7knAkN-feJ_HYjgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285258868573-i2c3r5qf3pjobu20sae2kli2dknkmofn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285258868573:android:66ca63d716d693b1d56ab4",
+        "android_client_info": {
+          "package_name": "com.vkohler.sender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285258868573-i2c3r5qf3pjobu20sae2kli2dknkmofn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpPcUp_E77egJMC6A7knAkN-feJ_HYjgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285258868573-i2c3r5qf3pjobu20sae2kli2dknkmofn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
